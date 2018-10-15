@@ -1,0 +1,9 @@
+a img.logo {
+    width: 90px;
+}
+
+.nav-link {
+    font-family: 'Hind Madurai', sans-serif;
+    text-decoration: none;
+    color: rgb(206, 206, 206);
+}
